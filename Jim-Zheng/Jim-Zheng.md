@@ -9,6 +9,61 @@ quoteAuthor: "Henri Bergson"
 [[imgBadge]]
 | ![Certified Scrum Master](../badges/Certification-scrumalliance-master.png)
 
-Jim Zheng is a software developer based in the SSW Hangzhou office. With more than 3 years of experience in web application development, he has worked as a technical lead and been involved in multiple projects with complex requirements and varying structures. He has worked on various products, including a course management system, a geotechnical experiment system and an electrical monitoring system. Through these projects, he has gained extensive experience with .NET based technologies and an in-depth understanding of project design.
+[[imgBadge]]
+| ![Business Microsoft Azure](../badges/Business-microsoft-azure.png)
+
+[[imgBadge]]
+| ![Developer Dotnet Core](../badges/Developer-dotnet-core.png)
+
+[[imgBadge]]
+| ![Developer Github](../badges/Developer-github.png)
+
+[[imgBadge]]
+| ![Certification Microsoft Azure Solutions Architect Expert](../badges/Certification-microsoft-azure-solutions-architect-expert.png)
+
+Jim Zheng is a **Senior Software Engineer** based in the SSW Hangzhou office. With more than 7 years of development experience in web application and over 4 years in cloud native application, he has worked as a technical lead and been involved in multiple projects with complex requirements and varying structures. He's also a certificated [Scrum](https://www.ssw.com.au/consulting/scrum) Master who sticks to the best practices of the Agile methodology to maximize value delivery.
 
 He has been continuously striving to understand the best practices for designing robust, applicable and maintainable projects by leveraging outstanding methodologies such as domain-driven design, with the ultimate aim of minimum cost and maximum product lifetime. He is also passionate about digging into systems to understanding how things work.
+
+## Client Projects
+
+### [Gao Hua Investment](https://www.gaohuasec.com)
+
+Jim serves as the Technical Lead for the architecture and implementation of the client’s enterprise Identity and Access Management (IAM) system and employee portal. Joining at the inception of the greenfield initiative, he spearheaded the system’s evolution into a robust, centralized identity platform.
+
+Leveraging the high level of trust established through these deliveries, Jim is now leading a second strategic initiative: the development of a specialized Project and Timesheet Management system for the Investment Banking division.
+
+## Internal Projects
+
+### [SSW SophieBot](https://sswsophie.com/sophiebot)
+
+Jim played a key role in developing a new version of **[SophieBot](https://www.ssw.com.au/consulting/bots)**, guiding its migration from the legacy Azure Bot Service to the modern Microsoft Copollo Studio platform. He was instrumental in transitioning the team's technology from traditional AI services to the new era of Large Language Models (LLMs).
+
+One major use case for SophieBot is to help our SSW State Managers and Clients to find the right developer for any project simply by talking to a Bot using natural human language. SophieBot can determine which developers from any of our offices have the right skills for a project and if they are available to be booked for this project. All the information required to answer this simple query can be spread across multiple systems such as Dynamics CRM, TimePro, LinkedIn, SalesForce, Delve, and more. SophieBot has integrations that can collect all the relevant information and fulfill the seemingly simple query and save the SSW State Managers a lot of time and effort.
+
+Relevant technologies: Azure Bots, Microsoft Copilot Studio, Language Understanding, QnA Maker, Azure Functions, Azure Table Storage, NodeJS, Dynamics 365, Power Platform, Logic App.
+
+### [SSW Website](https://www.ssw.com.au/)
+
+Jim joined the development of the 3rd generation of the [SSW Website](https://github.com/SSWConsulting/SSW.Website), making use of the latest technologies including NextJS and TinaCMS.
+
+The CMS infrastructure as well as the content of the SSW Website are completely open-source and actively maintained. The 3rd version of the project provides designers and content managers with a great editing experience using a powerful and code-free WYSIWYG editor leveraging TinaCMS.
+
+Relevant technologies: NextJS, TinaCMS, React, Docker, Azure Front Door
+
+### [SSW SugarLearning Chinafy](https://sugarlearning.com/)
+
+Jim joined as one of the core members to mordernize the architecture of [SSW SugarLearning China](https://sugarlearning.cn/) which leverages the latest cloud-native web development techniques, and helped the team to conduct a DevOps upgrade which better supports the deployment of an internationalized application.
+
+Relevant technologies: .NET 8, Azure App Service, Azure AI Search, Octopus Deploy
+
+## Videos
+
+Watch some of the internal sprint meetings that Jim has run!
+
+[SSW TimePro - Sprint 342 Review + Retro and Sprint 343 Planning (28 min)](https://www.youtube.com/watch?v=h3ti_jcoHXI)
+
+[SSW TimePro - Sprint 343 Review + Retro and Sprint 344 Planning (28 min)](https://www.youtube.com/watch?v=Hocg-I4GfHI)
+
+
+

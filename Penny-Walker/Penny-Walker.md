@@ -12,8 +12,8 @@ quoteAuthor: "Winston Churchill"
 [[imgBadge]]
 | ![devops](../badges/Business-microsoft-azure-devops.png)
 
-Penny is the SSW State Manager of Queensland and International clients. Operating from the SSW office in Brisbane CBD, Penny is in charge of looking after SSW's global clients in the US, Europe, Asia, and beyond.
+Penny is the SSW State Manager for Queensland, based in Brisbane, and the friendly face of SSW Recruitment. She is also a strong supporter of the SSW Internship program, helping identify great talent and giving new team members a warm, personal start at SSW. Penny has played an important role in mentoring young developers, many of whom have gone on to build thriving careers in tech.
 
-Penny is an extremely driven problem solver, who loves to tackle a challenge.
+Known for her positive energy, people skills, and leadership, Penny brings strategic thinking and a genuine passion for helping others succeed. Her career at SSW is a great example of growth through hard work, adaptability, and dedication. With her approachable nature and can-do attitude, Penny is a valued leader at SSW and in the broader tech community.
 
-Thanks to Penny's positive energy and strong people skills she is also the face of SSW recruitment. She seeks the best people to expand our awesome SSW family, and then helps them settle in with a unique, personal on-boarding experience. 
+Penny is a certified Scrum Master. She has also completed the Women in Technology Leadership Program. 

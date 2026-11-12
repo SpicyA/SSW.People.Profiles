@@ -5,11 +5,16 @@ qualifications:  "Bachelor of Software Engineering"
 
 quote:  "The best preparation for tomorrow is doing your best today."
 ---
+[[imgBadge]]
+| ![Microsoft Most Valuable Professional (MVP)](../badges/Certification-microsoft-mvp.png)
 
 [[imgBadge]]
-| ![](../badges/Certification-microsoft-azure-fundamentals.png)
+| ![Microsoft Certified: Azure Administrator Associate](../badges/Certification-microsoft-azure-administrator-associate.png)
 
-With 15 years working experience in software industry, Jerry is a developer, technical lead, and architect. All round developer who is good at software architecture and back-end API development.  
+[[imgBadge]]
+| ![Microsoft Certified: DevOps Engineer Expert](../badges/Certification-microsoft-azure-devops-engineer-expert.png)
+
+Jerry is a Microsoft MVP and Solution Architect at SSW, With 18 years working experience in software industry, Jerry is a developer, technical lead, and architect. All round developer who is good at software architecture and back-end API development.  
 
 Jerry has worked for several different types of IT companies. He has experience in many challenging projects like **Knowledge Sharing**, **IM**, **Logistics Supply Chain**. Jerry likes learning new technologies and helping business to succesfully achieve their goals through tech.  
 

@@ -1,5 +1,5 @@
 ---
-id: "b71a58fa-dc57-e811-8102-00155d012c01"
+id: "99cbf6c4-19a5-ee11-be37-00224893357c"
 
 qualifications: "Certified Scrum Master"
 
@@ -16,20 +16,23 @@ quote: "Great spirits have always encountered violent opposition from mediocre m
 | ![Adobe Premiere](../badges/Designer-adobe-premiere.png)
 
 
-Michael is the SSW State Manager for Victoria, supporting the growth of the Melbourne office over the last three years. He is driven by his passion for technology and innovation, and approaches projects with creativity and an "out of the box" mindset.
+**Head of Sales | AI Advisory, Training & Engineering**
 
-He has worked with a broad range of organisations, from tech start-ups to multi-national companies, to help them build businesses that are profitable. 
+Michael is SSW’s Head of Sales in Melbourne, helping organisations identify the right technology investments, shape successful engagements and connect business objectives with strong technical delivery.
 
-Mike's project management expertise, as well as his experience implementing scrum processes and migrating on-premises apps to azure cloud, means he is extremely versatile and will help drive your business to succeed.
+A major focus of Michael’s work is AI advisory and adoption. He works with leaders and teams to identify valuable AI opportunities, develop practical implementation strategies and move from experimentation to measurable business outcomes.
 
-Mike specialises in:
+Michael also delivers practical AI training for business and technical teams. His courses draw on real delivery experience: he is a hands-on AI engineer who has personally designed, built and deployed multiple applications, intelligent workflows and automation solutions.
 
-- Managing big, complex projects
+With more than 30 years of experience across sales, management, marketing and technology, Michael brings a valuable combination of commercial leadership and technical capability. He can help executives clarify where AI will create value, communicate effectively with delivery teams and remain involved as ideas progress from strategy through to implementation.
 
-- Digital marketing and sales strategies
+How Michael helps clients
 
-- Building business cases and cost-benefit analysis
-
-- Implementing scrum processes
-
-- Building happy, motivated, and productive teams
+- Technology and AI advisory
+- AI strategy and opportunity identification
+- Executive and team AI training
+- Solution scoping and engagement planning
+- AI-assisted software engineering
+- Custom AI applications and agentic workflows
+- Business-process and workflow automation
+- Business cases, cost–benefit analysis and implementation roadmaps

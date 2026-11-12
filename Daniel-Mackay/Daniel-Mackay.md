@@ -11,6 +11,9 @@ quoteAuthor: "Jay Shetty"
 | ![CSM_Badge](../badges/Certification-scrumalliance-master.png)
 
 [[imgBadge]]
+| ![Microsoft Certified: Azure Developer Associate](../badges/Certification-microsoft-azure-developer-associate.png)
+
+[[imgBadge]]
 | ![Azure Fundamentals](../badges/Certification-microsoft-azure-fundamentals.png)
 
 [[imgBadge]]
@@ -40,18 +43,22 @@ quoteAuthor: "Jay Shetty"
 [[imgBadge]]
 | ![PowerShell](../badges/Developer-powershell.png)
 
-Daniel Mackay is a Solution Architect at SSW and specializes in Cloud Architecture, Software Architecture, and DevOps.  He has over 20+ years of professional experience.  He has worked with .NET since 2009 and is passionate about web-based technologies such as .NET Core, ASP.NET Core, EF Core, React, Next.js and Azure.
+Daniel Mackay is a highly skilled Solution Architect at SSW, bringing over 20 years of experience in the software industry. As a certified Azure Developer and Scrum Master, Daniel specializes in **Cloud Architecture**, **Software Architecture**, and **Agile Project Management**. He has deep expertise in .NET, which he has worked with since 2009, and is passionate about implementing robust, scalable, and maintainable solutions using modern web technologies like **ASP.NET Core**, **EF Core**, **React**, **Next.js**, and **Microsoft Azure**.
 
-You can find his blog at [www.dandoescode.com](https://www.dandoescode.com/).
+*Read Daniel’s blog on .NET and software architecture at [www.dandoescode.com](http://www.dandoescode.com).*
+
+---
+
+## Expertise
 
 ### Cloud Architecture
 
-Daniel loves working with Azure and is constantly trying to identify new solutions to existing problems.  He is experienced with App Service, Function Apps, Service Bus, Storage, Logic Apps, Azure AD, Application Insights and Static Web Apps.
+Daniel has a comprehensive understanding of **Microsoft Azure** and is committed to finding innovative solutions to complex cloud challenges. He is proficient in key Azure services, including **App Services, Function Apps, Service Bus, Storage, Logic Apps, Azure AD, Application Insights**, and **Static Web Apps**. With a focus on designing scalable, secure, and efficient cloud solutions, Daniel ensures that each architecture aligns with best practices in **cost management, security, and high availability**.
 
 ### Software Architecture
 
-Daniel is a hands-on Solution Architect with an interest in both Software Architecture and Cloud Architecture.  He is a big fan of Clean Architecture with .NET Core and the productivity and maintainability it provides. He also has experience building single-page applications in React and Angular.
+As a hands-on Solution Architect, Daniel applies principles of **Clean Architecture** and **Domain-Driven Design (DDD)** to deliver maintainable and flexible software solutions. His expertise with **.NET Core** enables him to structure applications that are resilient to change and easy to extend. He has led teams in building complex single-page applications (SPAs) with frameworks like **React** and **Angular**, emphasizing high-performance, maintainability, and modular design. Daniel also facilitates the **Clean Architecture Workshop** to share these skills and mentor other developers on best practices in software architecture.
 
-### DevOps
+### Scrum and Agile Practices
 
-Daniel is a big believer in agile and productivity and is always searching for the best tool for the job.  He enjoys streamlining DevOps pipelines in GitHub/Azure DevOps to automate infrastructure changes, keep software quality high and ultimately get business value delivered to clients faster.
+A certified Scrum Master, Daniel promotes collaborative and agile environments, ensuring that teams work efficiently and sustainably. His commitment to **Agile methodologies** and **Scrum practices** helps organizations adapt to change and deliver high-quality software on time. Daniel excels in coaching teams on agile values and ceremonies, empowering them to create a culture of continuous improvement.

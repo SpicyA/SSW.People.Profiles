@@ -26,16 +26,19 @@ quoteAuthor: "David Goggins"
 [[imgBadge]]
 | ![C#](../badges/Developer-c-sharp.png)
 
----
+[[imgBadge]]
+| ![SQL Server](../badges/Developer-sql-server.png)
 
-Gordon is a SSW Solution Architect and has been a Microsoft MVP since 2014 for Developer Technologies.
+[[imgBadge]]
+| ![Terraform](../badges/Developer-terraform.png)
 
-He's uber passionate about helping people really understand DevOps and how they approach their problems with a DevOps mindset.
+[[imgBadge]]
+| ![Microsoft Certified Professional](../badges/Certification-microsoft-professional.jpg)
 
-He's used the Microsoft stack for many years starting with .net 2.0 in 2008. He's worked with Azure DevOps since the early on-premises TFS days and used the cloud version since available as tfpreview. 
+Gordon Beeming is a Solution Architect at SSW and a Microsoft MVP in Developer Technologies, an award he has held since 2014. He helps teams adopt DevOps practices, working through the changes to both their tools and the way they work.
 
-He's co-authored many guidance docs as part of the ALM Rangers, written 2 books on Customization TFS and a co-authored of Managing Agile Open-Source Software Projects with Visual Studio Online (now Azure DevOps Services).
+He has worked with the Microsoft stack since .NET 2.0 in 2008 and with Azure DevOps since its early days as on-premises TFS. Gordon has co-authored books on TFS and agile project management. A former ALM Ranger, he also contributed to community guidance.
 
-When he's not pushing technology limits you'll find him training for the next swim/bike/run event or relaxing with his family. 
+Based in Brisbane, Australia, Gordon shares his knowledge and current projects on his [YouTube channel](https://www.youtube.com/@gordonbeeming). Outside work, he enjoys training for triathlons and spending time with his family.
 
-You can connect with him on his [social platforms](https://gordonbeeming.com/) or take a look at his [YouTube channel (@gordonbeeming)](https://www.youtube.com/@gordonbeeming) to see what he's playing with currently.
+Connect with Gordon through his [social platforms](https://gordonbeeming.com/about).

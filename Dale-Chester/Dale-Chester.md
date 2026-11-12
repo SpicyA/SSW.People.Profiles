@@ -5,7 +5,7 @@ category: "Developers"
 role: "Software Architect"
 qualifications: ""
 
-quote: "You can not go back and change the beginning - but you can start where you are and change the ending."
+quote: "You cannot go back and change the beginning - but you can start where you are and change the ending."
 quoteAuthor: "C.S Lewis"
 
 ---
@@ -25,8 +25,6 @@ quoteAuthor: "C.S Lewis"
 [[imgBadge]]
 | ![js](../badges/Developer-js.png)
 
-
-<br/>
 
 Dale is a Software Architect working out of the SSW Brisbane office who has had many years experience developing specialized software for businesses.   He enjoys problem solving and designing around digital solutions.
 

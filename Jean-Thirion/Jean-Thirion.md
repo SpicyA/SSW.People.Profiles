@@ -8,32 +8,35 @@ quoteAuthor: "Carl Sagan"
 ---
 
 [[imgBadge]]
-| ![angular.png](../badges/Developer-angular.png)
+| ![Angular](../badges/Developer-angular.png)
 
 [[imgBadge]]
-| ![dotnet-core.png](../badges/Developer-dotnet-core.png)
+| ![.NET Core](../badges/Developer-dotnet-core.png)
 
 [[imgBadge]]
-| ![images.png](../badges/Developer-react.png)
+| ![React](../badges/Developer-react.png)
 
 [[imgBadge]]
-| ![images.png](../badges/Developer-sharepoint-spfx.png)
+| ![SharePoint](../badges/Developer-sharepoint-spfx.png)
 
 [[imgBadge]]
-| ![MCSD_ShareApp_Blk.png](../badges/Certification-microsoft-developer-sharepoint.png)
+| ![Certification Scrum Alliance Master](../badges/Certification-scrumalliance-master.png)
 
 [[imgBadge]]
-| ![MCSD App Builder-logo-Blk.png](../badges/Certification-microsoft-developer-app-builder.png)
+| ![MCSD_ShareApp_Blk](../badges/Certification-microsoft-developer-sharepoint.png)
 
----
+[[imgBadge]]
+| ![MCSD App Builder Blk](../badges/Certification-microsoft-developer-app-builder.png)
 
-Jean Thirion is SSW France CEO and the manager of SSW Europe, running the SSW Strasbourg Office. He has been working in software development for more than 10 years. Being multilingual, he worked in France, Luxembourg, and Australia. His experience with large scale domestic and international projects has given him the ability to act as a bridge between the development world and that of business. 
+[Book a meeting with me !](https://outlook.office365.com/book/SSWInitialMeetings@sswcom.onmicrosoft.com/s/DX2tn8T_g0yJR68ofa411g2)
 
-Jean is dedicated to building awesome teams, always making sure nobody is left behind. Honesty and trust are values he embodies, and he works hard to ensure this is always conveyed with not just his team, but his clients.
+Jean Thirion is SSW France CEO, running the European office in Strasbourg, France. As both a business leader and a technical expert, Jean focuses on delivering real value to clients through outcome-driven solutions. With a background in solution architecture and agile delivery, Jean ensures that every engagement stays focused on ROI, adaptability, and long-term business impact. He breaks down silos and fosters ongoing collaboration to keep everyone aligned and focused on delivering real value.
 
-On the technical side, Jean is a **SSW Solution Architect**. His main fields of expertise are **SharePoint Applications**, **Angular**, **React** and **.NET Core**.
+Jean is passionate about building high-performing, awesome teams. He promotes a culture rooted in trust, honesty, and transparency. His approach ensures that everyone —from developers to clients— feels supported, empowered, and heard. Jean strongly advocates for a collaborative and integrated approach, where Product Owners are not just stakeholders but active members of the development team. 
 
-His deep knowledge of SharePoint's capabilities, combined with the latest technologies (Angular, React, SPFx), let him implement high-quality tailored SharePoint Applications to clients. He has been involved with a wide variety of projects, from small companies to international firms, in both private and public sectors.
+With nearly 15 years in the software industry, Jean has built his career across France, Luxembourg, and spent 8 years in Australia, gaining deep insight into both local and global business environments. With his multilingual skills and cross-cultural mindset, he has led large-scale domestic and international projects, and is particularly passionate about acting as the bridge between technology and business. He has a proven track record delivering scalable, business-critical solutions across both public and private sectors, with a strong focus on the Insurance industry.
+
+On the technical side, Jean is a **SSW Solution Architect**, with deep expertise in **SharePoint Applications**, **Angular**, **React**, **.NET**, and** Microsoft Azure**. His mastery of SharePoint’s capabilities, combined with modern technologies like SPFx and a strong command of Azure Services enables him to deliver high-quality, scalable, and tailored applications. 
 
 [[imgLg]]
 | ![Jean and Brendan at the Angular Superpowers Tour - Brisbane](./Images/Bio/ssw-angular-superpowers-2021-B.jpg)
@@ -49,6 +52,11 @@ Jean is highly motivated, with strong technical skills, which allows him to unde
 
 - **SharePoint intranet** - This SharePoint site is used by all SSW employees to store shared resources and provide project management, internal administrative and global search functionality.  
    _Related Technologies: SharePoint, SPFX, React, C#, Web Services and SQL Server._
+
+- **EasyLeave** - Leave request platform, integrated into Timesheeting/Invoicing system (TimePro) 
+  _Product page: https://sswtimepro.com/_
+  _YouTube channel: https://www.youtube.com/@sswtimepro/videos_
+  _Related Technologies: .NET, EF, Angular 19, Modular Monolith_
 
 #### Videos
 

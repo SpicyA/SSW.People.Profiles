@@ -3,70 +3,64 @@
 # Configuration file for https://github.com/shufo/auto-assign-reviewer-by-files
 'Adam-Cogan/**':
   - adamcogan
-'Adriana-Tavares/**':
-  - AdriT9
-'Alex-Rothwell/**':
-  - AlexRothwell
 'Alvin-Shen/**':
   - AlvinShenSSW
 'Aman-Kumar/**':
   - amankumarrr
 'Anastasia-Cogan/**':
   - anastasiacogan
-'Andrew-Forsyth/**':
-  - apforsyth
 'Andrew-Harris/**':
   - drwharris
-'Anky-Che/**':
-  - AnkyChe
+'Andrew-Waltos/**':
+  - andrewwaltosssw
 'Anton-Polkanov/**':
   - AntPolkanov
-'Ash-Anil/**':
-  - AshAnil
+'Baba-Kamyljanov/**':
+  - babakamyljanovssw
 'Bahjat-Alaadel/**':
   - bahjatalaadelssw
+'Ben-Dunkerley/**':
+  - BenDunkerleySSW
 'Ben-Neoh/**':
   - Ben0189
-'Billy-Terblanche/**':
-  - billyterblanche
 'Brady-Stroud/**':
   - bradystroud
 'Brook-Jeynes/**':
-  - BrookJeynes
-'Bryden-Oliver/**':
-  - brydeno
+  - brookjeynes-ssw
+'Caleb-Williams/**':
+  - Calinator444
 'Calum-Simpson/**':
   - calumjs
-'Camilla-Rosa Silva/**':
-  - camillars
-'Charles-Vionnet/**':
-  - cvionnet
-'Chris-Clement/**':
-  - christoment
+'Chloe-Lin/**':
+  - Aibono1225
 'Chris-Schultz/**':
   - chrisschultzssw
 'Christian-Morford-Waite/**':
   - christianmorfordwaitessw
+'Clara-Fang/**':
+  - ClaraFang-SSW
 'Daniel-Mackay/**':
   - danielmackay
-'David-Abraham/**':
-  - DavidAbraham082
+'Eddie-Kranz/**':
+  - edkranz
+'Eli-Kent/**':
+  - kulesy
 'Eve-Cogan/**':
   - evecogan
-'Geordie-Robinson/**':
-  - Geordie88
 'Gert-Marx/**':
   - Marxoz
 'Gilles-Pothieu/**':
   - PothieuG
 'Gordon-Beeming/**':
-  - gordonbeeming
-'Harry-Ross/**':
-  - Harry-Ross
+  - GordonBeeming
+'Hajir-Lesani/**':
+  - Hajir2005
+'Harkirat-Singh/**':
+  - 0xharkirat
 'Hugo-Pernet/**':
   - Freego1783
-'Jack-Duan/**':
-  - duanxinhuan
+'Isaac-Lombard/**':
+  - isaaclombardssw
 'Jack-Pettit/**':
   - JackDevAU
 'Jake-Bayliss/**':
@@ -75,6 +69,8 @@
   - jaydenalchin
 'Jean-Thirion/**':
   - JeanThirion
+'Jeoffrey-Fischer/**':
+  - jeoffreyfischer
 'Jernej-Kavka/**':
   - jernejk
 'Jerry-Luo/**':
@@ -83,12 +79,8 @@
   - jimmidier
 'Jimmy-Chen/**':
   - JimmyChenSSW
-'John-Xu/**':
-  - johnxu77
-'Jonty-Gardner/**':
-  - jontygardner
-'Joseph-Fernandez/**':
-  - 2fernandez
+'Josh-Berman/**':
+  - joshbermanssw
 'Kaha-Mason/**':
   - KahaMason
 'Kaique-Biancatti/**':
@@ -97,67 +89,79 @@
   - hveraus
 'Kosta-Madorsky/**':
   - KostaMadorsky
-'Kristen-Hu/**':
-  - KristenHu
 'Landon-Maxwell/**':
   - landonmaxwell
-'Lee-Hawkins/**':
-  - leehawkinsssw
 'Levi-Jackson/**':
   - Levijj22
+'Lewis-Toh/**':
+  - Lewkans
+'Lorraine-Zhang/**':
+  - ZhangRan8
+'Louis-Roa/**':
+  - louisroa8189
+'Lu-Zhang/**':
+  - zl24622
 'Luke-Cook/**':
   - lukecookssw
 'Luke-Mao/**':
   - AttackOnMorty
-'Luke-Parker/**':
-  - Hona
-'Matt-Goldman/**':
-  - matt-goldman
+'Lydia-Cheng/**':
+  - LydiaCheng0716
+'Marcus-Irmscher/**':
+  - MarcusIrmscherSSW
+'Marina-Gerber/**':
+  - marinagerber
 'Matt-Wicks/**':
   - wicksipedia
 'Mehmet-Ozdemir/**':
   - ozdemir-mehmet
-'Nadee-Kodituwakku/**':
-  - NadeekaJK
-'Ozair-Ashfaque/**':
-  - ozairashfaqueSSW
+'Micaela-Blank/**':
+  - micsblank
+'Michael-Qiu/**':
+  - suiyangqiu
+'Michael-Smedley/**':
+  - miichaelsmedley
+'Nick-Curran/**':
+  - ncn-ssw
+'Pam-Pan/**':
+  - Pam623
 'Penny-Walker/**':
   - PennyWalker
-'Piers-Sinclair/**':
-  - pierssinclairssw
-'Prem-Radhakrishnan/**':
-  - premradhakrishnan
-'Ravi-Dhaduk/**':
-  - ravidhaduk
-'Sam-Smith/**':
-  - samsmithssw
+'Pravin-Kumar/**':
+  - Pravino24
+'Rick-Su/**':
+  - ricksu978
+'Rob-Thomlinson/**':
+  - RobJT-wq
+'Sam-Maher/**':
+  - sam-s-maher
 'Sam-Wagner/**':
   - SamBWagner
-'Sofie-Hong/**':
-  - SofieHong
+'Seth-Daily/**':
+  - sethdaily
 'Stephan-Fako/**':
   - stephanfakossw
 'Steven-Qiang/**':
   - steven0x51
 'Sylvia-Huang/**':
   - sylhuang
+'Thom-Wang/**':
+  - thom-wang
 'Tiago-Araujo/**':
   - tiagov8
+'Tino-Liu/**':
+  - tino-liu
 'Toby-Churches/**':
   - TobyChurches
-'Tom-Bui/**':
-  - tombui99
-'Tylah-Kapa/**':
-  - tkapa
+'Tom-Iwainski/**':
+  - tomek-i
 'Ulysses-Maclaren/**':
-  - UlyssesMaclaren
+  - uly1
 'Vlad-Kireyev/**':
   - vladislav-kir
-'Warwick-Leahy/**':
-  - leahy268
-'William-Liebenberg/**':
-  - william-liebenberg
 'Yang-Shen/**':
   - Berber-Mama
 'Zach-Keeping/**':
   - zacharykeeping
+'Zeno-Wang/**':
+  - ZenoWang1999

@@ -3,12 +3,9 @@ id: "1dfad0e3-7a05-ed11-82e4-00224814f19b"
 
 qualifications: ""
 
-quote: "Perfomance is the culmination of preparation and courage. That is all."
-quoteAuthor: "Sam Wagner"
+quote: "I'm not great at everything, but I am great at one thing: surrounding myself with excellent people. And that tends to take care of the rest."
+quoteAuthor: "Sheldon Menery"
 ---
-
-[[imgBadge]]
-| ![Azure](../badges/Business-microsoft-azure.png)
 
 [[imgBadge]]
 | ![.NET Core](../badges/Developer-dotnet-core.png)
@@ -17,13 +14,13 @@ quoteAuthor: "Sam Wagner"
 | ![C#](../badges/Developer-c-sharp.png)
 
 [[imgBadge]]
-| ![PowerApps](../badges/Business-microsoft-dynamics-powerapps.png)
+| ![Blazor](../badges/Developer-blazor.png)
 
 [[imgBadge]]
 | ![Scrum](../badges/Business-scrum.png)
 
 [[imgBadge]]
-| ![Angular](../badges/Developer-angular.png)
+| ![Azure](../badges/Business-microsoft-azure.png)
 
 [[imgBadge]]
 | ![DevOps](../badges/Developer-devops.png)
@@ -40,14 +37,14 @@ quoteAuthor: "Sam Wagner"
 [[imgBadge]]
 | ![SQL Server](../badges/Developer-sql-server.png)
 
-Sam comes from a background of low-level programming, but he has cut his teeth on web development using ASP.NET core, EF Core and Angular. He's also worked with the Microsoft Power Platform using PowerApps, PowerAutomate and the Dataverse to build Dynamics CRMs.
+Sam Wagner is a Software Engineer who loves building software that makes life better for the people using it.
 
-## .NET
+He is especially passionate about front-end development, UI, and UX, with a strong focus on creating software that is clear, polished, and genuinely pleasant to use. He cares about the details because good user experiences are rarely accidental.
 
-Sam's loves building WebAPIs with ASP.NET Core, working to build the fastest, safest and most reliable backends he can.
+Sam enjoys solving problems that matter. He likes to dig deep and understand what is really going on, whether that means looking at the code, the surrounding systems, or the people involved. He believes the best solutions come from seeing the full picture, not just the technical one.
 
-## Angular
+Although Sam loves code, he does not think code is the answer to every problem. In his experience, many of the hardest challenges are really people challenges: communication gaps, unclear processes, competing priorities, or misaligned expectations. Good software helps, but good thinking comes first.
 
-Front-end web development is a subtle love of Sam's. A sneaky designer at heart 🦝, he loves all the trials and tribulations that come with building a beautiful front-end.
+His approach is simple: move fast, learn fast, and improve fast. Sam believes progress comes from trying things, making mistakes early, and using that learning to move toward a better outcome, while keeping delivery safe and responsible.
 
-Bugs be gone! 🐛🔫
+Clients value Sam for his thoughtful approach, strong eye for user experience, and genuine desire to leave a business in a better place than he found it.

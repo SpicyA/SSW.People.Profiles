@@ -6,33 +6,66 @@ qualifications: ""
 quote: "Before software can be reusable it first has to be usable."
 quoteAuthor: "Ralph Johnson"
 ---
+[[imgBadge]]
+| ![](../badges/Certification-microsoft-power-platform-functional-consultant-associate.png)
+
+[[imgBadge]]
+| ![](../badges/Certification-microsoft-power-platform-developer-associate.png)
+
+[[imgBadge]]
+| ![](../badges/Certification-microsoft-azure-ai-engineer-associate.png)
+
+[[imgBadge]]
+| ![](../badges/Certification-microsoft-azure-database-administrator-associate.png)
+
+[[imgBadge]]
+| ![azure-logo.png](../badges/Business-microsoft-azure.png)
+
+[[imgBadge]]
+| ![Azure DevOps](../badges/Business-microsoft-azure-devops.png)
+
+[[imgBadge]]
+| ![Github_logo](../badges/Developer-github.png)
+
+[[imgBadge]]
+| ![](../badges/Developer-azure-function.png)
+
+[[imgBadge]]
+| ![](../badges/Developer-docker.png)
+
+[[imgBadge]]
+| ![](../badges/Developer-devops.png)
 
 [[imgBadge]]
 | ![](../badges/Developer-angular.png)
 
 [[imgBadge]]
-| ![](../badges/Designer-web-html5.png)
+| ![](../badges/Developer-ngrx.png)
 
 [[imgBadge]]
-| ![](../badges/Designer-web-css3.png)
-
-[[imgBadge]]
-| ![](../badges/Developer-c-sharp.png)
-
-[[imgBadge]]
-| ![](../badges/Developer-node-js.png)
-
-[[imgBadge]]
-| ![](../badges/Developer-js.png)
-
-[[imgBadge]]
-| ![](../badges/Developer-react.png)
+| ![](../badges/Developer-rxjs.png)
 
 [[imgBadge]]
 | ![](../badges/Developer-dotnet-core.png)
 
-[[imgBadge]]
-| ![](../badges/Developer-dotnet-mvc.png)
 
----
-Ben is a software developer working in the Sydney office, pursuing a bachelor's degree in software engineering at the University of Technology Sydney. He is a quick learner and favours front-end development. His strongest area of expertise is Angular, and he is always eager to learn about new technologies.
+Ben is a Sydney-based consultant at SSW who specialises in **enterprise Azure infrastructure architecture**, **enterprise AI solutions**, and **DevOps**. He has experience helping enterprises modernise legacy systems, migrate workloads to the cloud, and deliver secure, automated platforms that scale with business growth. Known for his pragmatic and outcome-driven approach, Ben bridges the gap between architecture, development, and operations to help organisations achieve faster, safer, and more reliable cloud solutions.
+
+A dedicated open-source maintainer, Ben contributes to **TinaCMS**, a world-leading headless CMS with over **10,000 GitHub stars**. His work focuses on improving extensibility, performance, and developer experience for thousands of users worldwide.
+
+## Enterprise Azure Infrastructure & Architecture
+Ben designs secure, scalable, and fully automated cloud environments on **Microsoft Azure**. With deep expertise in cloud security, networking, and infrastructure governance, he has successfully migrated complex **on-premises** microservice systems into Azure, implementing **private network architectures** that meet strict enterprise compliance standards. His work focuses on network isolation, private endpoints, and role-based access control (RBAC) to ensure all resources communicate securely within controlled boundaries.
+
+He automates Azure resource provisioning using **Infrastructure as Code (Bicep)** to deliver consistent, auditable deployments across environments. Ben also builds resilient CI/CD pipelines with **GitHub Actions** and **Azure DevOps**, integrating containerisation, automated testing, and infrastructure validation to create reliable, secure, and maintainable cloud solutions.
+
+## Enterprise AI Solutions
+Ben architects **custom AI solutions** on **Azure AI Foundry** and **Azure OpenAI** that turn client business problems into working AI apps. He uses AI far beyond writing code: to get more done and to improve the day-to-day processes of his whole team. For clients, he delivers AI solutions that drive their **AI transformation**, cut out manual work, and deliver **more accurate outcomes** than human-driven processes.
+
+## Microsoft Business Applications & Dynamics 365
+Delivered Power Apps solutions within the broader Microsoft Business Applications and Dynamics 365 ecosystem, including the design and delivery of an asset management and automated reporting solution for a leading Australian geophysical services firm. Also applied business process flows to support better operational control and project management across geophysical workflows. The solution improved asset visibility, streamlined reporting, and enabled earlier identification of maintenance risks, helping the business avoid extensive equipment failures and significantly reduce repair costs.
+
+## Full-Stack Development
+He has led several enterprise integration projects involving Xero, Power BI, and SSRS, ensuring seamless interoperability and insight generation. Most notably, Ben spearheaded a large-scale migration from .NET Framework to .NET 8, eliminating over one million lines of technical debt and achieving major improvements in performance, maintainability, and developer velocity.
+
+## Mentoring
+As Tech Lead for SSW FireBootCamp, Ben mentors developers and consultants in software engineering best practices, DevOps, and agile delivery. Known for his collaborative and approachable style, he helps teams adopt modern cloud and DevOps workflows while improving their code quality, solution design, and architectural thinking.

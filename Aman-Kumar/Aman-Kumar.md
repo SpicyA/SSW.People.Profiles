@@ -7,14 +7,23 @@ quote: "Failure is an option here. If things are not failing, you are not innova
 quoteAuthor: "Elon Musk"
 
 ---
+
+[[imgBadge]]
+| ![Azure_Developer_Badge](../badges/Certification-microsoft-azure-developer-associate.png)
+[[imgBadge]]
+| ![.NET Core](../badges/Business-microsoft-azure.png)
+
 [[imgBadge]]
 | ![.NET Core](../badges/Developer-dotnet-core.png)
+
+[[imgBadge]]
+| ![C-Sharp.png](../badges/Developer-c-sharp.png)
 
 [[imgBadge]]
 | ![angular-logo.png](../badges/Developer-angular.png)
 
 [[imgBadge]]
-| ![Azure DevOps](../badges/Developer-ngrx.png)
+| ![Azure DevOps](../badges/Developer-node-js.png)
 
 [[imgBadge]]
 | ![Azure DevOps](../badges/Developer-github.png)
@@ -31,10 +40,28 @@ quoteAuthor: "Elon Musk"
 [[imgBadge]]
 | ![Azure DevOps](../badges/Designer-web-css3.png)
 
----
+Aman Kumar is a skilled Software Developer at SSW Melbourne, specializing in building responsive and scalable web applications. With over 4 years of experience, he has honed his expertise in modern frameworks, DevOps automation, and cloud technologies to drive efficiency and performance improvements.
 
-Aman Kumar is a seasoned Software Developer at SSW Melbourne. With over 3 years of experience in building responsive and scalable web applications, he's well-versed in using a variety of platforms such as Angular, AngularJs, React, Node, PHP, and .NET Framework.  
+## 🚀 Technical Expertise  
+- **Frontend & Backend Development:** Angular, React, Next.js, AngularJS, Node.js, PHP, .NET Framework  
+- **DevOps & Cloud Technologies:** Azure DevOps Pipelines, GitHub Actions, Cloudflare Workers, Azure Front Door, Bicep  
+- **Database Optimization:** SQL Stored Procedures, Performance Tuning  
+- **Automation & Workflow Optimization:** Power Automate, Infrastructure as Code (IaC)  
 
-Aman has a master's degree in Information Technology with a specialization in Cloud and Mobile computing from Swinburne University of Technology. 
+## 🏆 Key Achievements & Contributions  
+- **Optimized Next.js applications**, reducing build times and improving overall performance.  
+- Developed an **Azure DevOps Pipeline** to automate deployments, minimizing downtime and improving efficiency.  
+- Implemented **GitHub Actions** to clean up unused Azure App Service slots, optimizing resource usage and cost.  
+- Automated **cloud resource deployment using Bicep**, integrating it seamlessly into CI/CD workflows.  
+- Utilized **Cloudflare Workers** for **efficient URL redirects and domain setup**, ensuring seamless traffic flow.  
+- Leveraged **Azure Front Door** to improve website navigation and user experience.  
+- Optimized **SQL stored procedures**, reducing retrieval times from several minutes to seconds.  
+- Created a **Power Automate flow** for customer callback requests, integrating with Dynamics 365 for better lead tracking.  
 
-When he's not busy coding, Aman enjoys watching cricket and is a huge fan of AB de Villiers and Shane Warne. 
+## 🎓 Education & Projects  
+- **Master’s in Information Technology** (Cloud & Mobile Computing) – Swinburne University of Technology  
+- **Final Project:** Developed a full-fledged **e-commerce portal for a jewelry store**, showcasing strong full-stack development skills.  
+
+## 🏏 Beyond Tech  
+Aman is a passionate cricket enthusiast with deep admiration for **AB de Villiers and Shane Warne**. His love for the game extends beyond the field, influencing his strategic thinking and problem-solving approach in software development.  
+

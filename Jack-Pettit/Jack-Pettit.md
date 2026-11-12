@@ -31,15 +31,13 @@ quoteAuthor: "Douglas Engelbart"
 | ![node js](../badges/Developer-dotnet-core.png)
 
 
-<br/>
+Jack is a Software Engineer based in the SSW Brisbane office, with a specialization in frontend development using React. He is also adept at backend development, adhering to the clean architecture pattern with .NET.
 
-Jack is a Software Engineer working out of the SSW Brisbane office specialising in frontend development working with React. He also loves working on the backend following the clean architecture pattern using .NET.
+Beyond this, Jack has expertise in NextJS and Gatsby, always aiming to develop swift and responsive websites to ensure the best user experience. He is also a [TinaCMS maintainer](https://tina.io), contributing to its development and helping improve the content editing experience. His skills extend to mobile development, having crafted mobile apps with Xamarin and now transitioning to .NET MAUI. A strong advocate of DevOps, Jack is well-versed with GitHub Actions and Azure services.
 
-Additionally, Jack is experienced with NextJS and Gatsby, aiming to create quick and responsive websites for the best user experience possible. Jack is also experienced with mobile development, creating mobile apps with Xamarin and now .NET MAUI. In addition, he loves DevOps and has experience working with GitHub Actions and Azure services.
+Always eager to learn, Jack continuously explores the latest technologies, seeking innovative ways to enhance his work. As a visual learner, he has a preference for presenting information in a clear manner, choosing engaging visuals over monotonous blocks of text.
 
-Jack loves to learn and is constantly trying out the latest technologies to see what innovations he can improve on. Jack is a visual learner and loves to present information in a clear manner, moving away from walls of boring text to cleaner images and graphs.
-
-In his spare time Jack has an interest in language and aims to learn Japanese and Arabic.
+Outside of his professional realm, Jack harbors a passion for languages and aspires to learn Arabic.
 
 
 

@@ -7,10 +7,13 @@ quote: "Leadership is the art of getting someone else to do something you want d
 quoteAuthor: "Dwight D. Eisenhower"
 ---
 
-Stephan is the SSW Senior Account. He comes to SSW with more than 5 years of accounting experience under his belt, and loves to use technology to solve accountancy problems. 
+[[imgBadge]]
+| ![CPA](../badges/CPA-Australia.png)
 
-Coming from a chartered accounting role, he now works closely with our Financial Controller to ensure SSW runs smoothly, including leading our finance reporting, as well as the general finance and admin duties. 
+As a Senior Accountant at SSW with over 7 years of experience, I thrive at the intersection of financial expertise and technology, tackling complex challenges with innovative solutions. Collaborating closely with our Financial Controller, I ensure the seamless operation of our financial systems through accurate reporting, efficient process management, and strategic planning. 
 
-Stephan is passionate about finance and can help you with Xero Accounting, automation, and management accounting.  
+My career has been defined by driving efficiency and delivering results. By implementing advanced automation tools like Xero, I have streamlined workflows, improved reporting accuracy, and empowered data-driven decision-making. My approach to management accounting focuses on actionable insights that support growth and long-term success. 
 
-When Stephan is not working, he loves to play Catan with his friends and family and investing into the share market.
+Finance is more than my profession—it’s a field where I channel my passion for solving problems and creating meaningful value. I am eager to connect with those seeking expertise in financial management, operational efficiency, or technology-driven innovation. 
+
+Outside of work, I enjoy immersing myself in strategy board games and discovering the magic of literature, always eager for new stories and adventures. 

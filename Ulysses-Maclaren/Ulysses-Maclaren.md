@@ -9,12 +9,31 @@ quote:  "Nothing in life is impossible. The biggest hurdles to success in life a
 [[imgBadge]]
 | ![Certified Scrum Master](../badges/Certification-scrumorg-master-1.png) 
    
-Ulysses is the General Manager of SSW and has been managing the team since 2006.
+[Schedule a meeting with Ulysses](https://outlook.office.com/bookwithme/user/97ccb01d46744eed9ad7ff2c52c3ade6@ssw.com.au?anonymous&ep=plink)
 
-Used to working under pressure, he is Adam Cogan's 2nd in charge, and keeps the company running smoothly while also dealing with SSW's clients and the development and design teams. His passion is making sure that all the guys at SSW feel like a family, while always improving their skill sets and challenging them to constantly expand their horizons.  
+Ulysses Maclaren is the COO of SSW, expertly guiding the company's strategic direction and operational excellence since 2006. As 2IC to Adam Cogan, Ulysses blends visionary leadership with practical insight, ensuring SSW consistently delivers outstanding outcomes for its clients and maintains a thriving, collaborative culture.
 
-Ulysses is the Scrum Master for internal development teams, the design, video, and marketing teams, as well as client projects. Integrity, transparency, and a smooth running team are all very important to him. He's also a [Power BI](http://adamcogan.com/2016/10/13/power-bi-no-more-guessing/) guru. 
+Key areas of expertise and responsibility include:
 
-   <iframe width="800" height="450" src="https://www.youtube.com/embed/Y4tvF0DWEec" frameborder="0"></iframe> 
+Artificial Intelligence Leadership: 
+* Recognised as an expert in practical AI applications, Ulysses drives transformative AI-driven solutions at SSW, including:
+* Workflow automation
+* Complex process enhancement
+* Data-driven decision-making
+* Improved customer engagement
 
-In his spare time, he is one of Australia's top Salsa teachers and is a 10 times Australian Salsa Champion, 5 times Australian Bachata Champion, and part of the Bachata World Champion team, Modus Vivendi. You can see more about this part of his life on his [Salsa Blog](https://salsaulysses.com/).
+Account Management & Agile Leadership:
+* Principal Account Manager, ensuring exceptional client value and satisfaction
+* Experienced Product Owner and Certified Scrum Master, skilled in agile methodologies, project oversight, and stakeholder communication
+
+Technology Integration & Strategic Insight:
+* Power BI and AI expert, leveraging technology for enhanced productivity
+* Stewardship of SSW’s website using TinaCMS, showcasing integration of advanced technology with user-friendly design
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BlqJ7bnivLE?si=_j0-XvVSJA47-PG0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Ulysses’s leadership style is defined by transparency, integrity, and a supportive, family-oriented workplace culture. His approachable yet decisive nature fosters a dynamic team environment focused on innovation, collaboration, and continuous improvement.
+
+Outside his professional pursuits, Ulysses is an accomplished salsa dancer with multiple national and international championships, embodying his belief in maintaining balance and discipline.
+
+Looking forward, Ulysses is committed to expanding SSW's leadership in AI and other emerging technologies, ensuring the organisation remains agile, innovative, and equipped for the digital age.
